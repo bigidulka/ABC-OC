@@ -1,0 +1,19 @@
+{
+  "status": "PARTIAL",
+  "checks": "file exercises, text fixture, archive roundtrips, own-process signals, live resource windows",
+  "not_performed": [
+    "password changes and virtual-console logins",
+    "official passwd_example (absent)",
+    "interactive nano and top settings, terminal fg/bg",
+    "desktop firefox/gedit",
+    "killall user processes",
+    "actual-home traversal",
+    "cron scheduler installation and timed execution",
+    "blackbox.tar.gz (absent)",
+    "locate database completeness"
+  ],
+  "root_processes_visible": true,
+  "process_scope": "Only processes visible to the current execution environment; not proof of host-wide coverage",
+  "practice_home_is_fixture": true,
+  "output": "/home/fsdf1234/Projects/_tmp/os-labs-package-2026-10-31/practice"
+}

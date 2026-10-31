@@ -1,0 +1,11 @@
+d  -> 
+d cat1 -> 
+d cat1/cat2 -> 
+d cat1/cat2/cat3 -> 
+d cat1/cat2/cat3/cat6 -> 
+d cat1/cat2/cat3/cat7 -> 
+d cat1/cat2/cat5 -> 
+d cat1/cat3 -> 
+d cat1/cat3/cat4 -> 
+d cat1/cat8 -> 
+l cat1/cat8/cat6 -> ../cat2/cat3/cat6

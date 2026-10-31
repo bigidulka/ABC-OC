@@ -1,0 +1,44 @@
+[
+  {
+    "method": "gzip",
+    "level": 1,
+    "original_bytes": 371,
+    "compressed_bytes": 129,
+    "saving_percent": 65.22911051212938
+  },
+  {
+    "method": "gzip",
+    "level": 5,
+    "original_bytes": 371,
+    "compressed_bytes": 128,
+    "saving_percent": 65.49865229110512
+  },
+  {
+    "method": "gzip",
+    "level": 9,
+    "original_bytes": 371,
+    "compressed_bytes": 128,
+    "saving_percent": 65.49865229110512
+  },
+  {
+    "method": "bzip2",
+    "level": 1,
+    "original_bytes": 371,
+    "compressed_bytes": 176,
+    "saving_percent": 52.56064690026954
+  },
+  {
+    "method": "bzip2",
+    "level": 5,
+    "original_bytes": 371,
+    "compressed_bytes": 176,
+    "saving_percent": 52.56064690026954
+  },
+  {
+    "method": "bzip2",
+    "level": 9,
+    "original_bytes": 371,
+    "compressed_bytes": 176,
+    "saving_percent": 52.56064690026954
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "vmstat_interval_seconds": 3,
+  "vmstat_intervals": 10,
+  "vmstat_first_boot_average_excluded": true,
+  "context_switches_per_second_mean": 45318.8,
+  "cpu_15_seconds": {
+    "interval_seconds": 15.000536459963769,
+    "busy_percent": 22.551103843008992
+  },
+  "cron_installed": false
+}

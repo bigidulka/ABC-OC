@@ -1,0 +1,10 @@
+[
+  {
+    "signal": "SIGTERM",
+    "own_process_returncode": -15
+  },
+  {
+    "signal": "SIGKILL",
+    "own_process_returncode": -9
+  }
+]

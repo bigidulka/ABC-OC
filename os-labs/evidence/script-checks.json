@@ -1,0 +1,116 @@
+{
+  "status": "passed",
+  "sum_cases": 12,
+  "archive_scenarios": 6,
+  "results": [
+    {
+      "sum_input": [
+        "9",
+        "5"
+      ],
+      "returncode": 0,
+      "stdout": "Сумма: 14\nРезультат больше нуля\n"
+    },
+    {
+      "sum_input": [
+        "-9",
+        "5"
+      ],
+      "returncode": 0,
+      "stdout": "Сумма: -4\nРезультат меньше нуля\n"
+    },
+    {
+      "sum_input": [
+        "-5",
+        "5"
+      ],
+      "returncode": 0,
+      "stdout": "Сумма: 0\nРезультат равен нулю\n"
+    },
+    {
+      "sum_input": [
+        "008",
+        "+002"
+      ],
+      "returncode": 0,
+      "stdout": "Сумма: 10\nРезультат больше нуля\n"
+    },
+    {
+      "sum_input": [
+        "-000",
+        "+0"
+      ],
+      "returncode": 0,
+      "stdout": "Сумма: 0\nРезультат равен нулю\n"
+    },
+    {
+      "sum_input": [
+        "999999999999999999",
+        "999999999999999999"
+      ],
+      "returncode": 0,
+      "stdout": "Сумма: 1999999999999999998\nРезультат больше нуля\n"
+    },
+    {
+      "sum_input": [],
+      "returncode": 2,
+      "stdout": ""
+    },
+    {
+      "sum_input": [
+        "1"
+      ],
+      "returncode": 2,
+      "stdout": ""
+    },
+    {
+      "sum_input": [
+        "1",
+        "2",
+        "3"
+      ],
+      "returncode": 2,
+      "stdout": ""
+    },
+    {
+      "sum_input": [
+        "a",
+        "2"
+      ],
+      "returncode": 2,
+      "stdout": ""
+    },
+    {
+      "sum_input": [
+        "1.5",
+        "2"
+      ],
+      "returncode": 2,
+      "stdout": ""
+    },
+    {
+      "sum_input": [
+        "9223372036854775807",
+        "1"
+      ],
+      "returncode": 2,
+      "stdout": ""
+    },
+    {
+      "archive": "passed",
+      "members": [
+        "./a.txt",
+        "./nested/space name.txt",
+        "./nested/new\nline.txt",
+        "./-leading.txt"
+      ],
+      "roundtrip": true,
+      "symlinks_excluded": true,
+      "collision_preserves_existing": true
+    },
+    {
+      "empty_archive": "passed",
+      "invalid_prefixes_rejected": true
+    }
+  ]
+}

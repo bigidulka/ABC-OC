@@ -1,0 +1,408 @@
+{
+  "created_at": "2026-10-31T08:53:30.169080+00:00",
+  "status": "reports_prepared_with_explicit_practical_gaps",
+  "reports": [
+    {
+      "key": "L1",
+      "path": "Linux/ОС_Linux_ЛР_1_Юдинцев_Богдан.docx",
+      "title": "Знакомство с операционной системой Linux",
+      "source_screenshot_count": 11,
+      "source_screenshot_sha256": [
+        "3ea4c6259acb640da9dac029816c332b4d64f4c9cfef6e6a509c961c2bc63d69",
+        "197d9c918c3315ca92a2a0490bd190b4d0406eb4cc6ca69ab8519b9a178fa079",
+        "8da32ee1e94e1bd80cd17593244bd33f13e50eda0b32ef76a05ce1644ee8b1e9",
+        "3a4c7684ff6c4278358aee2ab12829faf499c21a6d71bf65ac8805f0ae4fa32e",
+        "28a039e94d58a9cccf2fca7a9763a13a4be23f3e79518196261cade9a5fe343d",
+        "788a5f430f3ef25e4e75555712f80ce40dc913a23a8d1b346813114d0b1775fe",
+        "0adaf1ddbdd0d9c43763232e6ae9e74dec3e0d5965099c58d52edc39983dff9f",
+        "0913fb440695b2def81fcb3ab5f56773305a02bfeb387d419a200e49be09ac71",
+        "5a48c3ad3c184dd0224fed293d35e213229a5ad1b82d25e077baabdc7946faec",
+        "d0bda575e7c9f0de03aed6bef305038646ae397163d75cb8f662637206b2aab3",
+        "6fd7f8ff2ce14f1190be62e077beb094b615e596fb0ac85faa7249f9d2dd31e3"
+      ],
+      "sha256": "f248384fe280d1ce87c96afbbdab0fe539fa4a25208b016334837f67c94bf4d1",
+      "pages": 6
+    },
+    {
+      "key": "L2",
+      "path": "Linux/ОС_Linux_ЛР_2_Юдинцев_Богдан.docx",
+      "title": "Файловая система и работа с файлами",
+      "source_screenshot_count": 11,
+      "source_screenshot_sha256": [
+        "f870d8b30cbd683814380106125dc444659dd449ce73cfaa18227902935336de",
+        "ce2b1c61cdafa98e1edd34cb1e579c8e603ad23dae7797c5673511c44931f9b8",
+        "686527e62dbbee57bd4c0bf0c91fdf2af9de9f7d0defeb50e2cdc7adcc0f183a",
+        "987a40a27b31dcd3c402d2d69d4c0cffde4c950f48f188fe6765478d8eecb74e",
+        "74c932f12b80b29145da55855b11e9cb7cd59a70c2fb190bb6719a62aad29462",
+        "16ba14ce3e8495e3983d51e9099de7e1a48f84a64940494a966bd4f5e6381cd4",
+        "3509d27b6a3d02597f104caa7cdac3f623ba0dec4e8bb670513f9688bbba1156",
+        "d1a7d1921d710f9752da7434d8c3d3746eed924929b119c7d8fb6e290836033b",
+        "02f6e228c695234b13068f85212e67c707b4ce97ac4f7869af719fd508bc6e61",
+        "dac1df6dff0514120dc2e22a466e7e59c17f0cb493703644cf37c8368e84b09f",
+        "06d0ccce17d59fd9e69aecb67d8fbeb0551c7443da9027a6674c37ec5c70677f"
+      ],
+      "sha256": "a8b95603fa569c759a91c7b2b9939656e37ddaf263e67f23c9b8bc5c68e25790",
+      "pages": 6
+    },
+    {
+      "key": "L3",
+      "path": "Linux/ОС_Linux_ЛР_3_Юдинцев_Богдан.docx",
+      "title": "Обработка текста и пользовательское окружение",
+      "source_screenshot_count": 7,
+      "source_screenshot_sha256": [
+        "a85831694ff8f147f9306fb27c2f14d64c7cc04c43e2402d4524bcc3613cdc7b",
+        "3d6e1d1b0bc0b44d808f4a44a078fb2ff2ee6b2e2d49e3d2e6c4ebabd9940d6c",
+        "c0a3178acae70b80b952ecea3ea3aa6bad29e213365fd25a19efa022665869b4",
+        "88758497de767dbbfc710814f532bc9472d11dc5b240dd3d8648475fc4aa4211",
+        "9900492c396b4fa78cdadf0cb7abc620bdbe7160315885b0eee9d32f2dc521e4",
+        "e189466109057de5420335013eaee99584b0710b4c731d814dd0d16daed288d8",
+        "a66751c7d91169aa02f701b5a5726d7c771cbb47e3aae30b2dc3bf6253747d2f"
+      ],
+      "sha256": "a2603a0f64b134357006527779c4b9c238402fe48a8c1bd7d0b07bc36840f1de",
+      "pages": 5
+    },
+    {
+      "key": "L4",
+      "path": "Linux/ОС_Linux_ЛР_4_Юдинцев_Богдан.docx",
+      "title": "Поиск файлов сжатие и архивирование",
+      "source_screenshot_count": 0,
+      "source_screenshot_sha256": [],
+      "sha256": "90ff98d3b029c3465e240a176e1b70aa15ad09a8ead3f64d605371059dd1f85f",
+      "pages": 3
+    },
+    {
+      "key": "L5",
+      "path": "Linux/ОС_Linux_ЛР_5_Юдинцев_Богдан.docx",
+      "title": "Управление процессами в Linux",
+      "source_screenshot_count": 0,
+      "source_screenshot_sha256": [],
+      "sha256": "80e9a9d3176e78f94d2879bdc4f089740078fff1a75f71668c20546e5f39772e",
+      "pages": 3
+    },
+    {
+      "key": "L6",
+      "path": "Linux/ОС_Linux_ЛР_6_Юдинцев_Богдан.docx",
+      "title": "Ресурсы системы и планировщик cron",
+      "source_screenshot_count": 0,
+      "source_screenshot_sha256": [],
+      "sha256": "a4d607e0f658f2185fb37c3ed4105d896b11c47d578dd24c8201d88f6a4dd782",
+      "pages": 3
+    },
+    {
+      "key": "L7",
+      "path": "Linux/ОС_Linux_ЛР_7_Юдинцев_Богдан.docx",
+      "title": "Программирование в Bash",
+      "source_screenshot_count": 0,
+      "source_screenshot_sha256": [],
+      "sha256": "24681336a90fd434a3109193e7e410a19f825b575f599249db1b82ca95ff4abb",
+      "pages": 2
+    },
+    {
+      "key": "W2",
+      "path": "Windows/ОС_Windows_ЛР_2_Юдинцев_Богдан.docx",
+      "title": "Процессы и потоки Windows",
+      "source_screenshot_count": 15,
+      "source_screenshot_sha256": [
+        "2419daf077be3b0ea2fb3445de78cc7889640510464b484b28fb2513127aecbc",
+        "e22da9d727bcd1acb125a697aabbf582bf337996338e0fdd32340902128160d8",
+        "4357525baf1cc16d29d67b5f8951ca6f0e77a6605073772b5ae5f4d02eed6cdf",
+        "316cc681f80725619b490ce9c90c6cbd030fb245c8ea86c138c36bd0df238f02",
+        "21983243a6261cc1219b1d93aae50345b5dea4e0744853f659e27601149b2779",
+        "89adfb813fd610331b44108c7809a9a840d40639fa6610c261eb248c34f62ff3",
+        "9470afdefb9e71eef9ab468202b5c9d61ee22d0d3d6c42147e07a2aaf51e00a1",
+        "d68959af31da5dc4924523cf40f22ca3cf12f7d81211fb3f9667701edbb3c8d9",
+        "f306141a0baf4ac94041877fa297c26aea18f5295a62bebf01eec6c56406d98e",
+        "fc66183688a24ad9bc8c210bc4a6e2f92b1e8860d025a77a1c081b53e8df397f",
+        "abf897b55cf397d8d039434e30367104ad625503e5e70c74f154d2146aad6b44",
+        "cde79ff909d4a915855d940ae682d21aa275747c63fe5b3376fc7481d7b9786f",
+        "005317460784eb67f657e144852ae8e410cfbba48cbec2d78b71b5b8a26d98b9",
+        "2978c3689de3d160ecd17809083aeb31d2a80785a627bd4e036864db402fcaea",
+        "a6736a13d410e086fa25d526a23d23238f41764209026b1d17dffc4c38c03ddf"
+      ],
+      "sha256": "07f7f96eb391859d2c5081b0cdf425c0668c6a968269016756f38fc3fabd50b2",
+      "pages": 8
+    },
+    {
+      "key": "W3",
+      "path": "Windows/ОС_Windows_ЛР_3_Юдинцев_Богдан.docx",
+      "title": "Управление памятью Windows",
+      "source_screenshot_count": 6,
+      "source_screenshot_sha256": [
+        "a4ff774302a242156f944afcd8bce23eb08fa03af8f317988ee58273ae0f4509",
+        "99835396d5adb2dea67c16f1c2e67e56804141f5fa7f217bf06edd94b599e33f",
+        "535bdacc35760766d7db20ddc012d5fe342e086606de7e75b7a43879ab045a95",
+        "7121b9f033cee2a65de6198d6e51895126d56a7771bd6634a188d48901683d2a",
+        "1424d0238eb223edeef40851403561f4a973a579860e46a8b12697553ced2ef0",
+        "028986c29bf901580d59add524c5999326637eb6129575fbce0d32219323b75b"
+      ],
+      "sha256": "4215fc5dd50e0734ddde48f53f1a1e159fd4c89048f59b9d5d8728c72cf7826f",
+      "pages": 5
+    },
+    {
+      "key": "W4",
+      "path": "Windows/ОС_Windows_ЛР_4_Юдинцев_Богдан.docx",
+      "title": "Файловые системы Windows",
+      "source_screenshot_count": 6,
+      "source_screenshot_sha256": [
+        "11ba072e273b76cfa39bd3ac492a89b9b2cbedf47d6178eedfcd270dc2b9a46a",
+        "1fad73ac309a7503e05e4bee81d15b7102d2ca84aabe7e22f06f7b31d3b4a173",
+        "29f7c7f96887a4f53d7d2737596bb23ab7163dc914d23df7631c0307520ae2e2",
+        "f0a7b2d64ff4c93f970bbf20ab6940cc3f2abb8ed374017d33ce239c76562924",
+        "475a275232819f920cc8dce572f8d7d7d534d0b79369ca0e5ccf61459326a23e",
+        "6d447980d47a8ddd0e1fb62374bfab16d27be45e5a903061db778d847a21f673"
+      ],
+      "sha256": "cc8b3abf6cee8b82554a26b15f39e13897d1a9f12e550752e9d3276f6ff6b111",
+      "pages": 5
+    }
+  ],
+  "total_pages": 46,
+  "source_images_retained": 56,
+  "script_checks": {
+    "sum_cases": 12,
+    "archive_scenarios": 6,
+    "status": "passed"
+  },
+  "source_commit": "f3c4aff30bbf5757877b366b0d9a546f7a459c76",
+  "files": [
+    {
+      "path": "Linux/ОС_Linux_ЛР_1_Юдинцев_Богдан.docx",
+      "sha256": "f248384fe280d1ce87c96afbbdab0fe539fa4a25208b016334837f67c94bf4d1",
+      "bytes": 281461
+    },
+    {
+      "path": "Linux/ОС_Linux_ЛР_2_Юдинцев_Богдан.docx",
+      "sha256": "a8b95603fa569c759a91c7b2b9939656e37ddaf263e67f23c9b8bc5c68e25790",
+      "bytes": 210505
+    },
+    {
+      "path": "Linux/ОС_Linux_ЛР_3_Юдинцев_Богдан.docx",
+      "sha256": "a2603a0f64b134357006527779c4b9c238402fe48a8c1bd7d0b07bc36840f1de",
+      "bytes": 137708
+    },
+    {
+      "path": "Linux/ОС_Linux_ЛР_4_Юдинцев_Богдан.docx",
+      "sha256": "90ff98d3b029c3465e240a176e1b70aa15ad09a8ead3f64d605371059dd1f85f",
+      "bytes": 16527
+    },
+    {
+      "path": "Linux/ОС_Linux_ЛР_5_Юдинцев_Богдан.docx",
+      "sha256": "80e9a9d3176e78f94d2879bdc4f089740078fff1a75f71668c20546e5f39772e",
+      "bytes": 16225
+    },
+    {
+      "path": "Linux/ОС_Linux_ЛР_6_Юдинцев_Богдан.docx",
+      "sha256": "a4d607e0f658f2185fb37c3ed4105d896b11c47d578dd24c8201d88f6a4dd782",
+      "bytes": 16813
+    },
+    {
+      "path": "Linux/ОС_Linux_ЛР_7_Юдинцев_Богдан.docx",
+      "sha256": "24681336a90fd434a3109193e7e410a19f825b575f599249db1b82ca95ff4abb",
+      "bytes": 15794
+    },
+    {
+      "path": "README.txt",
+      "sha256": "964fd818af5d5d1e09ccbea05af39e28c73e5ebc2b7d926db7ace5586ee129d5",
+      "bytes": 4781
+    },
+    {
+      "path": "Windows/ОС_Windows_ЛР_2_Юдинцев_Богдан.docx",
+      "sha256": "07f7f96eb391859d2c5081b0cdf425c0668c6a968269016756f38fc3fabd50b2",
+      "bytes": 1248529
+    },
+    {
+      "path": "Windows/ОС_Windows_ЛР_3_Юдинцев_Богдан.docx",
+      "sha256": "4215fc5dd50e0734ddde48f53f1a1e159fd4c89048f59b9d5d8728c72cf7826f",
+      "bytes": 405269
+    },
+    {
+      "path": "Windows/ОС_Windows_ЛР_4_Юдинцев_Богдан.docx",
+      "sha256": "cc8b3abf6cee8b82554a26b15f39e13897d1a9f12e550752e9d3276f6ff6b111",
+      "bytes": 183754
+    },
+    {
+      "path": "evidence/lab1/info.txt",
+      "sha256": "f9441a8654a3fc342da3bd7b116c09308f69be8065b4b56d2d7d2e4f908d1445",
+      "bytes": 79
+    },
+    {
+      "path": "evidence/lab2/after.txt",
+      "sha256": "9bc17b28afc64d8bd77f3fd37d46c92fa7f5371c8ce07878a598534bb1051c6c",
+      "bytes": 180
+    },
+    {
+      "path": "evidence/lab2/before.txt",
+      "sha256": "886eff4826bd4e2ff168730c802cf3490640575522888e49e0fc0eeebfee6472",
+      "bytes": 219
+    },
+    {
+      "path": "evidence/lab2/ls-R.txt",
+      "sha256": "a0453f8eea17caeff69024c2d94fe3adc9c8543694d80a6f5feb7609fe0e4eca",
+      "bytes": 782
+    },
+    {
+      "path": "evidence/lab3/cut_result",
+      "sha256": "a4565e70189caaff6e081ed4d9897363518019ee96a4b08fb7adbde6f170d6e1",
+      "bytes": 55
+    },
+    {
+      "path": "evidence/lab3/cut_result2",
+      "sha256": "9fc34dfbed9d46c71816060c19e40b9f8db178784a1294fcd824ca19bda51ba1",
+      "bytes": 42
+    },
+    {
+      "path": "evidence/lab3/diff.txt",
+      "sha256": "f724ddb5c35fefd88c4128944211f4ee2dde2c9fd115747910da53e56f4162b1",
+      "bytes": 62
+    },
+    {
+      "path": "evidence/lab3/month_sort.txt",
+      "sha256": "9810782ff9d1e6caf87398217cf6651dbc5ae8f452691307b6d45d11533ffa03",
+      "bytes": 265
+    },
+    {
+      "path": "evidence/lab3/passwd_example",
+      "sha256": "e25aa159d78ee379504acc502d37a0f5e57aff064e1db24bc046bb82411110c7",
+      "bytes": 186
+    },
+    {
+      "path": "evidence/lab3/user_home.txt",
+      "sha256": "9fc53861a29a8192b4de78e3a285a5ed3ac70ddd5785e96b7a089cf36af08d04",
+      "bytes": 11
+    },
+    {
+      "path": "evidence/lab4/archive_sizes.json",
+      "sha256": "8165f418853a953ed3c19057cd8bcc5d21d18d6b58b1d21e3329f30a7c8a42e9",
+      "bytes": 44
+    },
+    {
+      "path": "evidence/lab4/compression.json",
+      "sha256": "1c8f90c9df978af94233ca48ca5b582af271866feec87563484eec780df048da",
+      "bytes": 863
+    },
+    {
+      "path": "evidence/lab4/file_count.txt",
+      "sha256": "7de1555df0c2700329e815b93b32c571c3ea54dc967b89e81ab73b9972b72d1d",
+      "bytes": 2
+    },
+    {
+      "path": "evidence/lab4/filelist1.txt",
+      "sha256": "637a57274ecad98cb7c11607adb53414e7fbc81020611802b6ed67dfc0c5fc49",
+      "bytes": 371
+    },
+    {
+      "path": "evidence/lab4/filelist2.txt",
+      "sha256": "bbc14c05c1c9145796a505136b6e34d7f4c3ab9b728cd6f667f8235bda6446d9",
+      "bytes": 144
+    },
+    {
+      "path": "evidence/lab4/filelist3.txt",
+      "sha256": "e898b658ba43dd12c2d77c394f4b6dde5d65263d8a5bf01f65723b41036cceda",
+      "bytes": 102
+    },
+    {
+      "path": "evidence/lab5/own_process_signals.json",
+      "sha256": "63f4de2006c2784184f7bd26b0556becd2ab86b834695c8cdbcf34d0ee40eb17",
+      "bytes": 137
+    },
+    {
+      "path": "evidence/lab5/proc1",
+      "sha256": "8d06954cd3ecbb0df22df605f092af37ee6c242fd3e4359327e2a8d3fec43892",
+      "bytes": 15914
+    },
+    {
+      "path": "evidence/lab5/runnable.txt",
+      "sha256": "3d418354b7c8843ab633750f4ea2d3eb559269d279c812622c3f73243d9eee73",
+      "bytes": 108
+    },
+    {
+      "path": "evidence/lab5/signals.txt",
+      "sha256": "3eb5e51a600979a807e7560452caee0cec062a8574537089b496fc210654d592",
+      "bytes": 840
+    },
+    {
+      "path": "evidence/lab5/uptime.txt",
+      "sha256": "b5436edbb735b9bc3460ae1b79b5ca65a672e17474ba7bebea91d73f654d414c",
+      "bytes": 69
+    },
+    {
+      "path": "evidence/lab6/disks.txt",
+      "sha256": "c9fc6bdc7e1e8f474610244c5c1108b4b2037090653cf492daab73d51820634c",
+      "bytes": 1013
+    },
+    {
+      "path": "evidence/lab6/lscpu.txt",
+      "sha256": "22decf94bcb728a9b626e5ee361e6b796c3874bca6ce3340b0ed16ed89119148",
+      "bytes": 3577
+    },
+    {
+      "path": "evidence/lab6/meminfo.txt",
+      "sha256": "c6087951631f65be99b6005b19a3cc4e82fe7a8cd760bfa52ace4220fc63b46a",
+      "bytes": 1672
+    },
+    {
+      "path": "evidence/lab6/memory/stat",
+      "sha256": "d7c6a757597b2f738156b6d0d5bb6459c1b0c3d89a24fc2892661c9f713ff139",
+      "bytes": 136
+    },
+    {
+      "path": "evidence/lab6/memory.txt",
+      "sha256": "e547697496e9d9630d65aad4e5d36cd462fb857fc81aa190fa29cfd0649eec46",
+      "bytes": 207
+    },
+    {
+      "path": "evidence/lab6/summary.json",
+      "sha256": "1d36a1dae7217b6230d6eedb25f0aba97c887c218dabaf7bb7eaf0891fd5da9f",
+      "bytes": 290
+    },
+    {
+      "path": "evidence/lab6/uname.txt",
+      "sha256": "d4c186437fefc27787e88452359b43f5c64583b299accda2c560bdfc73679c0b",
+      "bytes": 39
+    },
+    {
+      "path": "evidence/lab6/vmstat.txt",
+      "sha256": "eaf8cad80304ce274d464ae06586570f3be6ffa64171a3daa9176b8b35b8fe3e",
+      "bytes": 1534
+    },
+    {
+      "path": "evidence/script-checks.json",
+      "sha256": "e42cc7a807aa2435d97af9973fbbe54b56c7ff4d43faae4c59ca5e2ef53e5ef3",
+      "bytes": 2168
+    },
+    {
+      "path": "evidence/status.json",
+      "sha256": "642445786e102e5166a7fcf7e60b8e0e3b7c2f2b5816092e98017343f15ecd8e",
+      "bytes": 782
+    },
+    {
+      "path": "linux/archive_memory.sh",
+      "sha256": "33f6df551e8fd8984682a86961f32b229e59619bf3135d1859c8be58d7bde0e0",
+      "bytes": 616
+    },
+    {
+      "path": "linux/archive_txt.sh",
+      "sha256": "18d3e68b0e93bacea60c269bc53ad2134e03181d81c115b9a779443fd87fd80c",
+      "bytes": 1714
+    },
+    {
+      "path": "linux/cron-example.txt",
+      "sha256": "279535191f1fd5bb19dddaa04ebcf0eb2881e46cb3a26d20b7e52a8d7952aae3",
+      "bytes": 183
+    },
+    {
+      "path": "linux/memory_stat.sh",
+      "sha256": "b2550ca07194ca422474ba783c03d37170c0f7eb044580f3a308af907e0a7812",
+      "bytes": 409
+    },
+    {
+      "path": "linux/sum.sh",
+      "sha256": "670589fc92913b743c5d1d4aeb59f6ea675e4f37d4bd5a9a0adc9b6f9d36385a",
+      "bytes": 994
+    },
+    {
+      "path": "Что_осталось_показать.txt",
+      "sha256": "97fca8c0f2e74f930293a978ac0af7071886bc0d80041fd032215fc9a31a594e",
+      "bytes": 1894
+    }
+  ]
+}

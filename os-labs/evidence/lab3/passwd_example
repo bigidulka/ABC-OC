@@ -1,0 +1,4 @@
+root:x:0:0:Root:/root:/bin/bash
+user:x:1000:1000:Student:/home/user:/bin/bash
+student:x:1001:1001:Student:/home/student:/bin/bash
+service:x:900:900:Service:/srv/service:/usr/bin/nologin

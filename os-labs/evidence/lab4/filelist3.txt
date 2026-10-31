@@ -1,0 +1,2 @@
+2:user:x:1000:1000:Student:/home/user:/bin/bash
+3:student:x:1001:1001:Student:/home/student:/bin/bash

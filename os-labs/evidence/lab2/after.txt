@@ -1,0 +1,11 @@
+d  -> 
+d cat1 -> 
+d cat1/cat2 -> 
+d cat1/cat2/cat5 -> 
+d cat1/cat3 -> 
+d cat1/cat3/cat4 -> 
+d cat1/cat8 -> 
+d dir -> 
+f dir/current_date -> 
+l link1 -> dir/date
+f current_date -> 

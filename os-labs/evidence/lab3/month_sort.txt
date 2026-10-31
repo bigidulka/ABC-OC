@@ -1,0 +1,6 @@
+total 20
+-rw-r--r-- 1 fsdf1234 fsdf1234  11 Oct user_home.txt
+-rw-r--r-- 1 fsdf1234 fsdf1234  42 Oct cut_result2
+-rw-r--r-- 1 fsdf1234 fsdf1234  55 Oct cut_result
+-rw-r--r-- 1 fsdf1234 fsdf1234  62 Oct diff.txt
+-rw-r--r-- 1 fsdf1234 fsdf1234 186 Oct passwd_example

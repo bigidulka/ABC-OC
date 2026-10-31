@@ -1,0 +1,1 @@
+-rw-r--r-- 1 fsdf1234 fsdf1234 12800 Oct 31 11:45 /home/fsdf1234/Projects/_tmp/os-labs-package-2026-10-31/practice/practice_home/large file.txt

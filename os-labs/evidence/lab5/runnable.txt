@@ -1,0 +1,4 @@
+    PID    PPID STAT COMMAND
+  29039    7089 R<l  Telegram
+2301324 2301323 R<   ps
+3748319   13717 R<l+ omp

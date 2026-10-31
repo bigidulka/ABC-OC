@@ -1,0 +1,4 @@
+/home/fsdf1234/Projects/_tmp/os-labs-package-2026-10-31/practice/practice_home/dir/current_date
+/home/fsdf1234/Projects/_tmp/os-labs-package-2026-10-31/practice/practice_home/current_date
+/home/fsdf1234/Projects/_tmp/os-labs-package-2026-10-31/practice/practice_home/small.txt
+/home/fsdf1234/Projects/_tmp/os-labs-package-2026-10-31/practice/practice_home/large file.txt

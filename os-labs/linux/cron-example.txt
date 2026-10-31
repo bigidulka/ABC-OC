@@ -1,0 +1,2 @@
+* * * * * /bin/bash "$HOME/os-labs/linux/memory_stat.sh" "$HOME/memory/stat"
+*/3 * * * * /bin/bash "$HOME/os-labs/linux/archive_memory.sh" "$HOME/memory/stat" "$HOME/memory/archives"
